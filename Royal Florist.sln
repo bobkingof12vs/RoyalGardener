@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{55C2CE5E-5C9F-DED2-2573-3876FC83BC4F}") = "Royal Florist", "Assembly-CSharp-firstpass.csproj", "{43C067E8-390A-1EE0-914A-91D8306AA28F}"
+EndProject
+Project("{55C2CE5E-5C9F-DED2-2573-3876FC83BC4F}") = "Royal Florist", "Assembly-CSharp.csproj", "{F35DA2E1-2476-9C3A-676E-AAF10DA7A20A}"
+EndProject
+Project("{55C2CE5E-5C9F-DED2-2573-3876FC83BC4F}") = "Royal Florist", "Assembly-CSharp-Editor.csproj", "{06333359-E6D4-1074-0072-DB17C591A0F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43C067E8-390A-1EE0-914A-91D8306AA28F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C067E8-390A-1EE0-914A-91D8306AA28F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C067E8-390A-1EE0-914A-91D8306AA28F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C067E8-390A-1EE0-914A-91D8306AA28F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35DA2E1-2476-9C3A-676E-AAF10DA7A20A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35DA2E1-2476-9C3A-676E-AAF10DA7A20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35DA2E1-2476-9C3A-676E-AAF10DA7A20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35DA2E1-2476-9C3A-676E-AAF10DA7A20A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06333359-E6D4-1074-0072-DB17C591A0F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06333359-E6D4-1074-0072-DB17C591A0F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06333359-E6D4-1074-0072-DB17C591A0F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06333359-E6D4-1074-0072-DB17C591A0F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
